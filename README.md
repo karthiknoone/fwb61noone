@@ -1,2 +1,4 @@
 # fwb61noone
-Usage of pug templates by Karthik Noone
+Usage of pug by Karthik Noone
+
+Hosted at https://pugassignment.herokuapp.com/
